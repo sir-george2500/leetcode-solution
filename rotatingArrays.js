@@ -1,5 +1,6 @@
 //rotating Arrays 
-/**This problem requires us to rotate an array to the right by a given number of steps k. We can use the reverse function to reverse the entire array, 
+/**This problem requires us to rotate an array to the right by a given number of steps k. 
+ * We can use the reverse function to reverse the entire array, 
  * and then reverse the first k elements and
  *  the remaining n-k elements separately. 
  * This will give us the desired rotated array.**/
